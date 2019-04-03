@@ -1,0 +1,24 @@
+﻿namespace Zeroit.Framework.CodeBox
+{
+    /// <summary>
+    /// Indenting behavior of wrapped sublines.
+    /// </summary>
+    public enum WrapIndentMode
+    {
+        /// <summary>
+        /// Wrapped sublines aligned to left of window plus the amount set by <see cref="Zeroit.Framework.CodeBox.Scintilla.WrapStartIndent" />.
+        /// This is the default.
+        /// </summary>
+        Fixed,
+
+        /// <summary>
+        /// Wrapped sublines are aligned to first subline indent.
+        /// </summary>
+        Same,
+
+        /// <summary>
+        /// Wrapped sublines are aligned to first subline indent plus one more level of indentation.
+        /// </summary>
+        Indent = NativeMethods.SC_WRAPINDENT_INDENT
+    }
+}
