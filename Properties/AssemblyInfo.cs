@@ -11,7 +11,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Zeroit Dev")]
 [assembly: AssemblyProduct("Zeroit.Framework.CodeBox")]
-[assembly: AssemblyCopyright("Copyright © Zeroit Dev Technologies  2017. All Rights Reserved.")]
+[assembly: AssemblyCopyright("Copyright © 2017 Zeroit Dev Technologies. All Rights Reserved.")]
 [assembly: AssemblyTrademark("ZDT")]
 [assembly: AssemblyCulture("")]
 

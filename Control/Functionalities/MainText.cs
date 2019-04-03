@@ -1,3 +1,16 @@
+// ***********************************************************************
+// Assembly         : Zeroit.Framework.CodeBox
+// Author           : ZEROIT
+// Created          : 03-19-2019
+//
+// Last Modified By : ZEROIT
+// Last Modified On : 01-05-2019
+// ***********************************************************************
+// <copyright file="MainText.cs" company="Zeroit Dev">
+//     Copyright © 2017 Zeroit Dev Technologies. All Rights Reserved.
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
