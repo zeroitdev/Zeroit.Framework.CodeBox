@@ -168,9 +168,7 @@
     <Compile Include="WrapVisualFlags.cs" />
     <Compile Include="x86\Annotation.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Control\DocumentMap\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="x64\License.txt" />
     <Content Include="x64\SciLexer.dll" />
